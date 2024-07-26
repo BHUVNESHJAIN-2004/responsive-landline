@@ -1,2 +1,3 @@
-# codsoft-BJ
-my first repository for codsoft intership
+#responsive-landline
+this is my first repository based on responsive landline page
+
